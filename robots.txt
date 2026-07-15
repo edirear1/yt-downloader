@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edirear1.github.io/yt-downloader/sitemap.xml
